@@ -1,0 +1,20 @@
+[1.113s] Invoking command in '/home/eirik/ROS_PROJECTS/ROS_car_project/src/turtlebot3_antmobile': PYTHONPATH=/home/eirik/ROS_PROJECTS/ROS_car_project/install/turtlebot3_antmobile/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlebot3_antmobile build --build-base /home/eirik/ROS_PROJECTS/ROS_car_project/build/turtlebot3_antmobile/build install --prefix /home/eirik/ROS_PROJECTS/ROS_car_project/install/turtlebot3_antmobile --record /home/eirik/ROS_PROJECTS/ROS_car_project/build/turtlebot3_antmobile/install.log --single-version-externally-managed
+[1.278s] running egg_info
+[1.278s] writing ../../build/turtlebot3_antmobile/turtlebot3_antmobile.egg-info/PKG-INFO
+[1.283s] writing dependency_links to ../../build/turtlebot3_antmobile/turtlebot3_antmobile.egg-info/dependency_links.txt
+[1.283s] writing entry points to ../../build/turtlebot3_antmobile/turtlebot3_antmobile.egg-info/entry_points.txt
+[1.283s] writing requirements to ../../build/turtlebot3_antmobile/turtlebot3_antmobile.egg-info/requires.txt
+[1.283s] writing top-level names to ../../build/turtlebot3_antmobile/turtlebot3_antmobile.egg-info/top_level.txt
+[1.321s] reading manifest file '../../build/turtlebot3_antmobile/turtlebot3_antmobile.egg-info/SOURCES.txt'
+[1.322s] writing manifest file '../../build/turtlebot3_antmobile/turtlebot3_antmobile.egg-info/SOURCES.txt'
+[1.322s] running build
+[1.322s] running build_py
+[1.322s] running install
+[1.323s] running install_lib
+[1.325s] running install_data
+[1.325s] running install_egg_info
+[1.327s] removing '/home/eirik/ROS_PROJECTS/ROS_car_project/install/turtlebot3_antmobile/lib/python3.8/site-packages/turtlebot3_antmobile-0.0.0-py3.8.egg-info' (and everything under it)
+[1.327s] Copying ../../build/turtlebot3_antmobile/turtlebot3_antmobile.egg-info to /home/eirik/ROS_PROJECTS/ROS_car_project/install/turtlebot3_antmobile/lib/python3.8/site-packages/turtlebot3_antmobile-0.0.0-py3.8.egg-info
+[1.327s] running install_scripts
+[1.342s] writing list of installed files to '/home/eirik/ROS_PROJECTS/ROS_car_project/build/turtlebot3_antmobile/install.log'
+[1.404s] Invoked command in '/home/eirik/ROS_PROJECTS/ROS_car_project/src/turtlebot3_antmobile' returned '0': PYTHONPATH=/home/eirik/ROS_PROJECTS/ROS_car_project/install/turtlebot3_antmobile/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlebot3_antmobile build --build-base /home/eirik/ROS_PROJECTS/ROS_car_project/build/turtlebot3_antmobile/build install --prefix /home/eirik/ROS_PROJECTS/ROS_car_project/install/turtlebot3_antmobile --record /home/eirik/ROS_PROJECTS/ROS_car_project/build/turtlebot3_antmobile/install.log --single-version-externally-managed

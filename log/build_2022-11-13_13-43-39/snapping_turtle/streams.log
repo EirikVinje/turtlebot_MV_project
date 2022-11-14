@@ -1,0 +1,20 @@
+[1.154s] Invoking command in '/home/eirik/ROS_PROJECTS/ROS_car_project/src/snapping_turtle': PYTHONPATH=/home/eirik/ROS_PROJECTS/ROS_car_project/install/snapping_turtle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/snapping_turtle build --build-base /home/eirik/ROS_PROJECTS/ROS_car_project/build/snapping_turtle/build install --prefix /home/eirik/ROS_PROJECTS/ROS_car_project/install/snapping_turtle --record /home/eirik/ROS_PROJECTS/ROS_car_project/build/snapping_turtle/install.log --single-version-externally-managed
+[1.328s] running egg_info
+[1.329s] writing ../../build/snapping_turtle/snapping_turtle.egg-info/PKG-INFO
+[1.329s] writing dependency_links to ../../build/snapping_turtle/snapping_turtle.egg-info/dependency_links.txt
+[1.329s] writing entry points to ../../build/snapping_turtle/snapping_turtle.egg-info/entry_points.txt
+[1.329s] writing requirements to ../../build/snapping_turtle/snapping_turtle.egg-info/requires.txt
+[1.329s] writing top-level names to ../../build/snapping_turtle/snapping_turtle.egg-info/top_level.txt
+[1.356s] reading manifest file '../../build/snapping_turtle/snapping_turtle.egg-info/SOURCES.txt'
+[1.357s] writing manifest file '../../build/snapping_turtle/snapping_turtle.egg-info/SOURCES.txt'
+[1.357s] running build
+[1.357s] running build_py
+[1.357s] running install
+[1.358s] running install_lib
+[1.359s] running install_data
+[1.360s] running install_egg_info
+[1.361s] removing '/home/eirik/ROS_PROJECTS/ROS_car_project/install/snapping_turtle/lib/python3.8/site-packages/snapping_turtle-0.0.0-py3.8.egg-info' (and everything under it)
+[1.361s] Copying ../../build/snapping_turtle/snapping_turtle.egg-info to /home/eirik/ROS_PROJECTS/ROS_car_project/install/snapping_turtle/lib/python3.8/site-packages/snapping_turtle-0.0.0-py3.8.egg-info
+[1.363s] running install_scripts
+[1.376s] writing list of installed files to '/home/eirik/ROS_PROJECTS/ROS_car_project/build/snapping_turtle/install.log'
+[1.421s] Invoked command in '/home/eirik/ROS_PROJECTS/ROS_car_project/src/snapping_turtle' returned '0': PYTHONPATH=/home/eirik/ROS_PROJECTS/ROS_car_project/install/snapping_turtle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/snapping_turtle build --build-base /home/eirik/ROS_PROJECTS/ROS_car_project/build/snapping_turtle/build install --prefix /home/eirik/ROS_PROJECTS/ROS_car_project/install/snapping_turtle --record /home/eirik/ROS_PROJECTS/ROS_car_project/build/snapping_turtle/install.log --single-version-externally-managed
